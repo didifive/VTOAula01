@@ -2,6 +2,16 @@ package one.digitalinnovation.basecamp;
 
 /**
  * Classe de exemplo para o exercício da Aula 1 de Variáveis, Tipos de Dado e Operadores aritméticos.
+ *
+ * Padrão de definição de variáveis:
+ * <?visibilidade?> <?modificador?> tipo nome <?=valorInicial?>
+ *     visibilidade: public, protected e private;
+ *     modificador: static e final;
+ *     tipo: tipo de dado (int, boolean, etc);
+ *     nome: nome da variável;
+ *     valorInicial: valor inicial caso já deseje atribuir valor na declaração da variável.
+ *
+ * palavras reservadas do Java: https://www.w3schools.com/java/java_ref_keywords.asp
  */
 public class Main {
 
